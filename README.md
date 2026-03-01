@@ -36,6 +36,7 @@ Here’s what I’m working on right now:
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)  
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red)  
 ![Hands-On](https://img.shields.io/badge/Type-Practical%20Labs-orange)
+![Target Date](https://img.shields.io/badge/Target%20Completion-Apr%202026-green)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/LCS1109.png" alt="Your Image Badge" />
 
@@ -54,6 +55,7 @@ Here’s what I’m working on right now:
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)  
 ![Platform](https://img.shields.io/badge/Platform-Hack%20The%20Box-black)  
 ![Type](https://img.shields.io/badge/Type-Red%20%26%20Blue%20Team-purple)
+![Target Date](https://img.shields.io/badge/Target%20Completion-May%202026-green)
 
 📌 **Focus Areas**  
 - Penetration testing fundamentals  
