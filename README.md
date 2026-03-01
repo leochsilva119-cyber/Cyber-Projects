@@ -73,7 +73,7 @@ Here’s what I’m working on right now:
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/leochsilva119-cyber/Cyber-Security-Home-Lab-Azure-SOC-Honeypot/blob/main/README.md">Detection Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
