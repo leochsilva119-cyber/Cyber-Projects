@@ -28,7 +28,7 @@ Here’s what I’m working on right now:
 - Threat detection & mitigation  
  
 📊 **Progress**  
-`[███-------] 30%`
+`[█████-----] 50%`
 
 ---
 
@@ -46,7 +46,7 @@ Here’s what I’m working on right now:
 - Vulnerability identification  
 
 📊 **Progress**  
-`[███-------] 30%`
+`[████------] 40%`
 
 ---
 
@@ -55,8 +55,6 @@ Here’s what I’m working on right now:
 ![Platform](https://img.shields.io/badge/Platform-Hack%20The%20Box-black)  
 ![Type](https://img.shields.io/badge/Type-Red%20%26%20Blue%20Team-purple)
 
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-black?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)]([https://app.hackthebox.com/profile/your-profile-id)
-
 📌 **Focus Areas**  
 - Penetration testing fundamentals  
 - Vulnerability scanning & exploitation  
@@ -64,7 +62,7 @@ Here’s what I’m working on right now:
 - Security reporting & documentation  
 
 📊 **Progress**  
-`[███-------] 30%`
+`[█---------] 10%`
 
 ## Projects
 - Detection Lab with Azure an Microsoft Sentinel
@@ -75,23 +73,59 @@ Here’s what I’m working on right now:
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/leochsilva119-cyber/Cyber-Security-Home-Lab-Azure-SOC-Honeypot/blob/main/README.md">Detection Lab</a>|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🖥️ Virtual Machines & Compute
+![Azure Virtual Machines](https://img.shields.io/badge/Azure%20Virtual%20Machines-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![RDP](https://img.shields.io/badge/RDP-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### Virtual Machine
-<div>
-    <img src="https://img.shields.io/badge/-Azure-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+---
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+## 🌐 Networking & Endpoints
+![Azure VNet](https://img.shields.io/badge/Azure%20VNet-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Network Security Groups](https://img.shields.io/badge/Network%20Security%20Groups-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows Firewall](https://img.shields.io/badge/Windows%20Firewall-CC0000?style=for-the-badge&logo=windows&logoColor=white)
+![Endpoint Hardening](https://img.shields.io/badge/Endpoint%20Hardening-6A5ACD?style=for-the-badge)
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+---
+
+## 🛡️ SIEM, Monitoring & Security Operations
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=azuremonitor&logoColor=white)
+![Azure Monitor Agent](https://img.shields.io/badge/Azure%20Monitor%20Agent-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Data Collection Rules](https://img.shields.io/badge/Data%20Collection%20Rules-2E77BC?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows Security Events](https://img.shields.io/badge/Windows%20Security%20Events-000000?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 📊 Log Analytics & Data Engineering
+![Azure Log Analytics](https://img.shields.io/badge/Azure%20Log%20Analytics-0078D4?style=for-the-badge&logo=azuremonitor&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-2E77BC?style=for-the-badge&logo=azuredataexplorer&logoColor=white)
+![Event Correlation](https://img.shields.io/badge/Event%20Correlation-5E5E5E?style=for-the-badge)
+![Log Ingestion](https://img.shields.io/badge/Log%20Ingestion-0089D6?style=for-the-badge)
+
+---
+
+## 🌍 Threat Intelligence & Enrichment
+![GeoIP Enrichment](https://img.shields.io/badge/GeoIP%20Enrichment-4CAF50?style=for-the-badge)
+![Sentinel Watchlists](https://img.shields.io/badge/Sentinel%20Watchlists-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![Attack Mapping](https://img.shields.io/badge/Attack%20Mapping-FF5722?style=for-the-badge)
+![Threat Visualization](https://img.shields.io/badge/Threat%20Visualization-673AB7?style=for-the-badge)
+
+---
+
+## 📈 Dashboards & Visualization
+![Sentinel Workbooks](https://img.shields.io/badge/Sentinel%20Workbooks-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-009688?style=for-the-badge)
+![Global Attack Map](https://img.shields.io/badge/Global%20Attack%20Map-3F51B5?style=for-the-badge)
+
+---
+
+## 🧪 Cybersecurity Concepts Practiced
+![Honeypots](https://img.shields.io/badge/Honeypots-FF9800?style=for-the-badge)
+![Brute Force Analysis](https://img.shields.io/badge/Brute%20Force%20Analysis-F44336?style=for-the-badge)
+![Incident Monitoring](https://img.shields.io/badge/Incident%20Monitoring-607D8B?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-2196F3?style=for-the-badge)
+
 
 ---
 
