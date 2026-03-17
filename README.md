@@ -42,7 +42,7 @@ Here’s what I’m working on right now:
 
 📌 **Focus Areas**  
 - Cyber threat fundamentals  
-- Network security basics  
+- Network security  
 - Cryptography & authentication  
 - Vulnerability identification  
 
