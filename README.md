@@ -28,11 +28,11 @@ Here’s what I’m working on right now:
 - Threat detection & mitigation  
  
 📊 **Progress**  
-`[█████-----] 50%`
+`[████████--] 80%`
 
 ---
 
-## 🔐 TryHackMe – Security Essentials (Sec1)  
+## 🔐 TryHackMe – Security Essentials (SAL1)  
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)  
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red)  
 ![Hands-On](https://img.shields.io/badge/Type-Practical%20Labs-orange)
@@ -47,11 +47,11 @@ Here’s what I’m working on right now:
 - Vulnerability identification  
 
 📊 **Progress**  
-`[████------] 40%`
+`[████████--] 80%`
 
 ---
 
-## 🕵️ Hack The Box – Certified Junior Cybersecurity Analyst (CJCA)  
+## 🕵️ Hack The Box – Certified Junior Cybersecurity Analyst (CDSA)  
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)  
 ![Platform](https://img.shields.io/badge/Platform-Hack%20The%20Box-black)  
 ![Type](https://img.shields.io/badge/Type-Red%20%26%20Blue%20Team-purple)
@@ -64,7 +64,7 @@ Here’s what I’m working on right now:
 - Security reporting & documentation  
 
 📊 **Progress**  
-`[█---------] 10%`
+`[███-------] 30%`
 
 ## Projects
 - Detection Lab with Azure an Microsoft Sentinel
