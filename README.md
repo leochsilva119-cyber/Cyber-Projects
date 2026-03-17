@@ -32,7 +32,7 @@ Here’s what I’m working on right now:
 
 ---
 
-## 🔐 TryHackMe – Security Essentials (SAL1)  
+## 🔐 TryHackMe – Security Analyst Level 1 (SAL1)  
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)  
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red)  
 ![Hands-On](https://img.shields.io/badge/Type-Practical%20Labs-orange)
@@ -51,7 +51,7 @@ Here’s what I’m working on right now:
 
 ---
 
-## 🕵️ Hack The Box – Certified Junior Cybersecurity Analyst (CDSA)  
+## 🕵️ Hack The Box – Certified Defensive Security Analyst (CDSA)  
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)  
 ![Platform](https://img.shields.io/badge/Platform-Hack%20The%20Box-black)  
 ![Type](https://img.shields.io/badge/Type-Red%20%26%20Blue%20Team-purple)
